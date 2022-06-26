@@ -1,3 +1,3 @@
 # WordCount
 
-The results are here: [a relative link](results.txt)
+The results are here: [results](results.txt)
